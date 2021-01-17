@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Contacts.css";
 
 function ContactsList({ contacts, loading }) {
@@ -7,7 +7,7 @@ function ContactsList({ contacts, loading }) {
       {contacts.map((contact, index) => {
         return (
           <div className="contact bg-white d-flex mb-3 py-3" key={index}>
-            <div scope="row">
+            <div>
               <input type="checkbox" />
             </div>
             <div>{contact.UserName}</div>
