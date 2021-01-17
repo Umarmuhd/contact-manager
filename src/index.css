@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  background-color: #f2f5f9;
+}
+
+.contacts-top-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts-mid-header {
+  display: flex;
+  justify-content: space-between;
+}

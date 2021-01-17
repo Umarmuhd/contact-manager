@@ -1,0 +1,36 @@
+.contact {
+  -webkit-box-shadow: 0px 3px 1px 3px rgba(234, 236, 239, 1);
+  -moz-box-shadow: 0px 3px 1px 3px rgba(234, 236, 239, 1);
+  box-shadow: 0px 3px 1px 3px rgba(234, 236, 239, 1);
+}
+
+.contact div:nth-child(1) {
+  width: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact div:nth-child(2) {
+  width: 14%;
+}
+
+.contact div:nth-child(3) {
+  width: 16%;
+}
+
+.contact div:nth-child(4) {
+  width: 18%;
+}
+
+.contact div:nth-child(5) {
+  width: 11%;
+}
+
+.contact div:nth-child(6) {
+  width: 14%;
+}
+
+.contact div:nth-child(7) {
+  width: 17%;
+}

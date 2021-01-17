@@ -1,0 +1,30 @@
+.contact-bot-header .d-flex div:nth-child(1) {
+  width: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-bot-header .d-flex div:nth-child(2) {
+  width: 14%;
+}
+
+.contact-bot-header .d-flex div:nth-child(3) {
+  width: 16%;
+}
+
+.contact-bot-header .d-flex div:nth-child(4) {
+  width: 18%;
+}
+
+.contact-bot-header .d-flex div:nth-child(5) {
+  width: 11%;
+}
+
+.contact-bot-header .d-flex div:nth-child(6) {
+  width: 14%;
+}
+
+.contact-bot-header .d-flex div:nth-child(7) {
+  width: 17%;
+}
