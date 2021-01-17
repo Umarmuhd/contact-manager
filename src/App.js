@@ -127,9 +127,9 @@ function App() {
           </div>
         </div>
         <div className="right-2 d-flex">
-          {/* <button className="btn btn-outline-dark mr-4">
+          {<button className="btn btn-outline-dark mr-4" onClick={()=>window.print()}>
             <Printer />
-          </button> */}
+          </button>}
           <Filter filters={(obj) => setFilters(obj)} />
         </div>
       </div>
